@@ -1,0 +1,10 @@
+{
+  "name": "note_app",
+  "version": "1.0.0",
+  "description": "Web based note taking app using php",
+  "main": "index.php",
+  "repository": "https://github.com/brodster2/note_app.git",
+  "author": "Brodie Slater",
+  "license": "MIT",
+  "dependencies": {}
+}
