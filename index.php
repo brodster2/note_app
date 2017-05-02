@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     
 	<link rel="stylesheet" href="css/navbar.css">
-	<link rel="stylesheet" href="css/backimg.css">
+	<link rel="stylesheet" href="css/landing.css">
+  	<link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
    
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -48,6 +49,22 @@
         </div>
     </nav>
     
+    <div class="jumbotron">
+    	<h1>Online note taking app</h1>
+		<h3>Your notes with you wherever you go.</h3>
+		<h3>Easy to use, protects all your notes!</h3>
+		<input class="btn btn-lg btn-signup" type="button" value="Sign up - it's free">
+    </div>
+    
+    
+    
+    
+    
+    <footer>
+    	<div class="container">
+    		<p>Brodie Slater &copy; <?php echo date("Y"); ?></p>
+    	</div>
+    </footer>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
