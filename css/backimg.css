@@ -1,0 +1,13 @@
+body {
+	background: url("../images/hero_sm.jpeg") no-repeat center center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+@media only screen and (min-width: 768px){
+	body {
+		background: url("../images/hero_md.jpeg") no-repeat center center;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+}
